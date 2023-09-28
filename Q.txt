@@ -1,0 +1,4 @@
+1.Find the Transpose of the Matrix
+2.Create an 1D dynamic array ,it should contain numbers b/w 10-30
+  extract and print even numbers, 2 power values. 
+3.

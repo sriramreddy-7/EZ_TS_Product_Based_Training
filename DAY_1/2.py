@@ -1,5 +1,6 @@
 """Get a num as input find the sum of the elements of number"""
 num=int(input("Enter the Number : "))
+
 k=num
 sum=0
 for i in str(num):

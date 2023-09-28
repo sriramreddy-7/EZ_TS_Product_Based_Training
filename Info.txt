@@ -1,0 +1,6 @@
+Constant Time Complexity     :O(1)
+Linear Time Complexity       :O(n)
+Logarithamic Time Complexity :O(log n)
+Quadratic Time Complexity    :O(n^2)
+Exponential Time Complexity  :O(2^n)
+-----------------------
