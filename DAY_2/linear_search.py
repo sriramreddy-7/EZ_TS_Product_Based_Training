@@ -2,7 +2,7 @@ size=int(input("Enter the Size :"))
 l=[]
 for i in range(size):
     l.append(int(input()))
-key=int(input("Enter the Search Element :"))
+key=int(input("Enter the Search Element : "))
 def search(key):
     for i in range(len(l)):
         if key==l[i]:

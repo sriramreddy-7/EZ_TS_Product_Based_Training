@@ -3,4 +3,25 @@ Linear Time Complexity       :O(n)
 Logarithamic Time Complexity :O(log n)
 Quadratic Time Complexity    :O(n^2)
 Exponential Time Complexity  :O(2^n)
------------------------
+-------------------------------------
+Space Complexity is parallel to time Complexity concept , 
+array of size n will take O(n)
+2d array of size will take O(n*n Square)
+O(1)-Constant Time Complexity  
+Same amount of space regardless of the input size n it is called the Constant Complexity
+Ex:
+1. Some of Array Elements & Linear Search
+Reason:
+Bcoz space not depends upon the values
+
+---------------------
+Polynomial Complexity :O(n^2):
+space Complexity grows proportionallt to the square of the input size 
+-------------------------------------------------------------------
+10*4/6+3-1%2
+40/6+3-1%2
+6.667+3-1%2
+9.667-1%2
+8.667
+--------------------------------------------------------------------
+Bit Manipulation

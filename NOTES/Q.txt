@@ -1,4 +1,9 @@
 1.Find the Transpose of the Matrix
 2.Create an 1D dynamic array ,it should contain numbers b/w 10-30
   extract and print even numbers, 2 power values. 
-3.
+3.Sum n
+4.Fact
+5.Fab
+6.Find out the smallest missing positive integer 
+7.In given array every no occurs only one numbers occurs 1 time
+ find the element that occurs only once.
