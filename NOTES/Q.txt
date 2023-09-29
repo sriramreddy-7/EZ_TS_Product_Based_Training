@@ -7,3 +7,7 @@
 6.Find out the smallest missing positive integer 
 7.In given array every no occurs only one numbers occurs 1 time
  find the element that occurs only once.
+8.For the given number n ,check the k the bit is set or not 
+9.Find out the X^R of n numbers
+10.Find the xor for the given range
+11.Check number is Even or Odd
