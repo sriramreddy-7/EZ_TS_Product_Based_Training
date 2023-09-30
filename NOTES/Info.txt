@@ -33,3 +33,5 @@ xor(1 to 9) ^ xor(1 to 3)
 in above 1 2 3 xors will get cancelled
 generalise xor(r)^xor(l-1)
 --------------------------------------------------------------------
+Recursion:
+

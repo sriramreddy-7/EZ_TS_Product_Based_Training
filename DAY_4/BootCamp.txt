@@ -1,0 +1,11 @@
+Notes:
+1.In python every thing is considered as the Object
+Data Types in Python:
+List 
+Set 
+Tuple
+Dictionary
+int
+float
+string
+
