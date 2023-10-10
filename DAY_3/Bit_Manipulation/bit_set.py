@@ -1,4 +1,4 @@
-'''num=int(input())
+num=int(input())
 pos=int(input())
 bin_num=[]
 def d2b(num):
@@ -6,12 +6,17 @@ def d2b(num):
         d2b(num//2)
     bin_num.append(num%2)
 d2b(num)
-for i in range(len(bin_num)):
-    if i==pos:
+print(bin_num)
+for i in range(1,len(bin_num)+1):
+    if i==pos-1:
         if bin_num[i]==1:
-            print("Set")
+            bin_num[i]=0
         else:
-            print("No")'''
+            bin_num[i]=1
+m=[str(x) for x in bin_num]
+re="".join(m)
+print(re)
+print(int(re,2))
 
 """
 num=int(input())

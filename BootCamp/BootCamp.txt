@@ -8,4 +8,10 @@ Dictionary
 int
 float
 string
+Q:
+Create one class , class consist of three variables
+take 2 methods 
+2 argumented fun
+1-string 2-int argument
 
+    
